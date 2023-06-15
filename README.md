@@ -1,6 +1,6 @@
 # Empty Folder Cleaner
 
-This batch script is designed to delete empty folders within the first level subdirectories of a specified directory. It scans through the immediate subdirectories and removes any folders that do not contain any files or folders.
+This batch script is designed to delete empty folders within the first level subdirectories of a specified directory. It scans through the immediate subdirectories and removes any folders that do not contain any files or folders. After deletion, the console will print how many folders were deleted. You could edit this further to store logs per deletion. Something to keep in mind.
 
 ## Usage
 
